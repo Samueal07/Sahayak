@@ -40,4 +40,4 @@ The Railway Pass Management system utilizes PHP and MySQL to maintain records of
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Samueal07/Sahayak.git
